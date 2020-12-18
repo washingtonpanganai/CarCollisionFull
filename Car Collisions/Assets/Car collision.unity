@@ -144,7 +144,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 01e56b8d152f4c64ab693dc28263bd0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  changingText: {fileID: 0}
 --- !u!114 &44712867
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -387,20 +386,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49c8054629b5bad4a81a3ff2c9b62730, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  OnPress:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 578161408}
-        m_MethodName: OpenRepositoryCode
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
 --- !u!114 &578161408
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -465,7 +450,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 01e56b8d152f4c64ab693dc28263bd0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  changingText: {fileID: 0}
 --- !u!114 &578161411
 MonoBehaviour:
   m_ObjectHideFlags: 0
