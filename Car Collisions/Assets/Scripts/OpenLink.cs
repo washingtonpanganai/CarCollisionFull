@@ -6,6 +6,6 @@ public class OpenLink : MonoBehaviour
 {
     public void OpenRepositoryCode()
     {
-        Application.OpenURL("https://github.com/washingtonpanganai/CarCollisionAlpha.git");
+        Application.OpenURL("https://github.com/washingtonpanganai/CarCollisionFull.git");
     }
 }
