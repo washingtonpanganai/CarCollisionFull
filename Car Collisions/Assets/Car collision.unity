@@ -757,6 +757,19 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 311638755, guid: f7cb15c5a7c4bdd498370bd90d1d77bd, type: 3}
+      propertyPath: explosionParticle
+      value: 
+      objectReference: {fileID: 19821056, guid: 079954accd64b32419ec069129c81273,
+        type: 3}
+    - target: {fileID: 311638755, guid: f7cb15c5a7c4bdd498370bd90d1d77bd, type: 3}
+      propertyPath: coin
+      value: 
+      objectReference: {fileID: 8300000, guid: 16f6ba62752f6f340a663ecd14475490, type: 3}
+    - target: {fileID: 311638755, guid: f7cb15c5a7c4bdd498370bd90d1d77bd, type: 3}
+      propertyPath: crashSound
+      value: 
+      objectReference: {fileID: 8300000, guid: e7cb68da88d8b274eb008f9a214589d8, type: 3}
     - target: {fileID: 311638756, guid: f7cb15c5a7c4bdd498370bd90d1d77bd, type: 3}
       propertyPath: m_Mass
       value: 60

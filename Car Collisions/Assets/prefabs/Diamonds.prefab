@@ -167,7 +167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6911b433c3f2a1b479e35f5df0403ca5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  diamonds: {fileID: 0}
+  diamonds: {fileID: 3162700760673251490}
   xPos: 0
   zPos: 0
   diamondCount: 0
